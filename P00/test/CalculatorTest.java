@@ -64,7 +64,7 @@ public class CalculatorTest {
 	@Test
 	public void testDivide() {
 		int a = 56;
-		int b = 0;
+		int b = 2;
 		
 		Calculator cal = new Calculator();
 		
